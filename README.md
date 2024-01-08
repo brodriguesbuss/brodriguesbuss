@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I am currently working as a software quality analyst. I have average knowledge in automated testing with Cypress and Selenium, both in Java script. I also have basic knowledge in appium.
-
+Nice to meet you, my name is Brenda.
+I have been working in the software quality area for 5 years and am currently focused on learning mobile test automation, using the Appium tool with JavaScript language.
+In October/2022, I had the honor of earning my CTFL international software testing certificate (ISTQB).
+Graduated in Systems Analysis and Development from Uniasselvi, I also continue to improve my English with classes 3x a week at Get It.
+If you are interested in knowing more about my work, contact me!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/brodriguesbuss) 
@@ -75,7 +78,7 @@
 ##### Servers
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)    
 
-##### Accessibility
+##### Accessibility :accessibility:
 ![Voice Over](https://img.shields.io/badge/Voice%20Over-0092f1?style=flat)
 ![TalkBack](https://img.shields.io/badge/TalkBack-8A2BE2?style=flat)
 ![NVDA](https://img.shields.io/badge/NVDA-8A2BE2?style=flat)
