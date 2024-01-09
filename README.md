@@ -1,11 +1,18 @@
-# 💫 About Me:
-Nice to meet you, my name is Brenda.
-I have been working in the software quality area for 5 years and am currently focused on learning mobile test automation, using the Appium tool with JavaScript language.
-In October/2022, I had the honor of earning my CTFL international software testing certificate (ISTQB).
-Graduated in Systems Analysis and Development from Uniasselvi, I also continue to improve my English with classes 3x a week at Get It.
-If you are interested in knowing more about my work, contact me!
+![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20231003/pngtree-d-rendering-mockup-showcasing-responsive-devices-in-a-loft-office-setting-image_13542453.png)
 
-## 🌐 Socials:
+# 💫 About Me:
+<i>Hello, it's a pleasure to meet you! I'm Brenda.
+
+With 5 years of experience in software quality, I am currently immersed in the world of test automation, specializing in both mobile and web testing using tools such as Appium and Cypress, primarily with JavaScript.
+
+In October 2022, I achieved the prestigious CTFL international software testing certificate (ISTQB), marking a significant milestone in my professional journey. I hold a degree in Systems Analysis and Development from Uniasselvi, and I am dedicated to continuous improvement.
+
+Moreover, I prioritize enhancing my English proficiency through structured classes held three times a week at Get It.
+
+If you're interested in learning more about my professional endeavors, please feel free to reach out! I'm always open to connecting and sharing experiences
+</i>
+
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/brodriguesbuss) 
 
 # 💻 Tech Stack:
