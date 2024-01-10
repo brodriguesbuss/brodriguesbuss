@@ -15,6 +15,30 @@ Moreover, I prioritize enhancing my English proficiency through structured class
 If you're interested in learning more about my professional endeavors, please feel free to reach out! I'm always open to connecting and sharing experiences
 </i>
 
+
+# 🚀 My GitHub Repositories! 
+
+Here, you'll find a variety of organized and structured projects for easy navigation and understanding. My repositories are primarily divided into three categories: **Studies**, **Work**, and **College**.
+
+### Naming Convention for Study Repositories:
+- **studies-language-framework-feature**
+  - Example: `studies-js-cypress-screenshot`
+
+This naming convention follows a clear pattern to identify the repository's purpose. In the example above, "studies" indicates it's a study repository, followed by the language (`js` for JavaScript), the framework (`cypress`), and the specific feature (`screenshot`).
+
+### Branch Workflow:
+My repositories follow a standard workflow with the following main branches:
+
+- **`main`**: Contains the stable and production version of the code.
+- **`develop`**: Used for integrating new features before merging into `main`.
+
+This branch strategy helps maintain an organized development line and ensures stability in the main version of the code.
+
+Feel free to explore, contribute, or get in touch for more information about any of my projects. Thank you for visiting!
+
+Happy coding! 
+
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/brodriguesbuss) 
 
