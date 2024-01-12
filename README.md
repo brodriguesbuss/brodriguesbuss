@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center"> 
   <img src="https://png.pngtree.com/thumb_back/fw800/background/20231003/pngtree-d-rendering-mockup-showcasing-responsive-devices-in-a-loft-office-setting-image_13542453.png" alt="Descrição da Imagem" style="width: 100%; height: 450px; object-fit: cover;">
 </p>
 
