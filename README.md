@@ -21,10 +21,10 @@ If you're interested in learning more about my professional endeavors, please fe
 Here, you'll find a variety of organized and structured projects for easy navigation and understanding. My repositories are primarily divided into three categories: **Studies**, **Work**, and **College**.
 
 ### Naming Convention for Study Repositories:
-- **studies-language-framework-feature**
-  - Example: `studies-js-cypress-screenshot`
+- **studies-framework-language-feature**
+  - Example: `studies-cypress-js-screenshot`
 
-This naming convention follows a clear pattern to identify the repository's purpose. In the example above, "studies" indicates it's a study repository, followed by the language (`js` for JavaScript), the framework (`cypress`), and the specific feature (`screenshot`).
+This naming convention follows a clear pattern to identify the repository's purpose. In the example above, "studies" indicates it's a study repository, followed by the framework (`cypress`), the language (`js` for JavaScript) and the specific feature (`screenshot`).
 
 ### Branch Workflow:
 My repositories follow a standard workflow with the following main branches:
