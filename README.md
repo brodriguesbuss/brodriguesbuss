@@ -3,7 +3,7 @@
   <img src="https://png.pngtree.com/thumb_back/fw800/background/20231003/pngtree-d-rendering-mockup-showcasing-responsive-devices-in-a-loft-office-setting-image_13542453.png" alt="Descrição da Imagem" style="width: 100%; height: 450px; object-fit: cover;">
 </p>
 
-# 💫 About Me:
+# 💫 About Me
 <i>Hello, it's a pleasure to meet you! I'm Brenda.
 
 With 5 years of experience in software quality, I am currently immersed in the world of test automation, specializing in both mobile and web testing using tools such as Appium and Cypress, primarily with JavaScript.
@@ -16,7 +16,7 @@ If you're interested in learning more about my professional endeavors, please fe
 </i>
 
 
-# 🚀 My GitHub Repositories! 
+# 🚀 My GitHub Repositories
 
 Here, you'll find a variety of organized and structured projects for easy navigation and understanding. My repositories are primarily divided into three categories: **Studies**, **Work**, and **College**.
 
@@ -38,11 +38,15 @@ Feel free to explore, contribute, or get in touch for more information about any
 
 Happy coding! 
 
+<br clear="both">
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/brodriguesbuss) 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brodriguesbuss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="220" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brodriguesbuss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=gotham&hide_border=true&order=2" height="220" alt="languages graph"  />
+</div>
 
-# 💻 Tech Stack:
+
+# 💻 Tech Stack
  
 ##### Testing 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e) 
@@ -117,16 +121,9 @@ Happy coding!
 ![TalkBack](https://img.shields.io/badge/TalkBack-8A2BE2?style=flat)
 ![NVDA](https://img.shields.io/badge/NVDA-8A2BE2?style=flat)
 
- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=brodriguesbuss&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=brodriguesbuss&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brodriguesbuss&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/brodriguesbuss) 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=brodriguesbuss&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=brodriguesbuss&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
